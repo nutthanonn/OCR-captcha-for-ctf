@@ -9,6 +9,3 @@ This repository contains a Python OCR (Optical Character Recognition) captcha so
 - **Image Processing**: Uses the `Pillow` library for image processing tasks, like resizing and enhancing captcha images.
 - **HTML Parsing**: Incorporates the `BeautifulSoup` library for parsing HTML to locate and extract captcha images from web pages.
 - **Base64 Decoding**: Supports base64 decoding through the `base64` library for decoding captchas encoded in base64 format.
-# OCR-captcha-for-ctf
-# OCR-captcha-for-ctf
-# OCR-captcha-for-ctf
